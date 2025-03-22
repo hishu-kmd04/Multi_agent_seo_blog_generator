@@ -1,0 +1,6 @@
+deepseek
+beautifulsoup4
+requests
+markdown
+pydantic
+python-dotenv
